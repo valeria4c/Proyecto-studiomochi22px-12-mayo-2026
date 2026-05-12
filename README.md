@@ -1,0 +1,1 @@
+# Proyecto-studiomochi22px-12-mayo-2026
