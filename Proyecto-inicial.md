@@ -23,3 +23,6 @@ Como DBA, aquí está mi análisis de las entidades necesarias para gestionar **
 - Un estudio puede tener varios equipos asignados.
 
 ¿Quieres que profundice en alguna entidad, agregue tablas de catálogo (tipos de producto, descuentos, promociones) o diseñe las queries más comunes para este negocio?
+<img width="875" height="672" alt="image" src="https://github.com/user-attachments/assets/051d2ac0-5a92-437f-85f8-86778352adc2" />
+<img width="797" height="736" alt="image" src="https://github.com/user-attachments/assets/c3363344-1779-4ed3-a41c-5ea19418561e" />
+<img width="769" height="365" alt="image" src="https://github.com/user-attachments/assets/24d8b5ea-ac4c-4b4f-b226-8c507eb99c59" />
